@@ -11,7 +11,7 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                    Boas vindas ao meu espaço pessoal! Eu sou o Gustavo Bryan, sou Desenvolvedor Front-End. Aqui compartilho conhecimento sobre vários assuntos, espero que gostem :)
+                    Boas vindas ao meu espaço pessoal! Eu sou o Gustavo, sou Desenvolvedor Front-End. Aqui compartilho conhecimento sobre vários assuntos, espero que gostem :)
                 </p>
             </div>
 

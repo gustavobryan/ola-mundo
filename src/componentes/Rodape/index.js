@@ -10,3 +10,5 @@ export default function Rodape() {
         </footer>
     )
 }
+
+//curso da Alura React

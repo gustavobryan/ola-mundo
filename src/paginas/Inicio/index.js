@@ -1,6 +1,6 @@
 import styles from './Inicio.module.css';
 import Banner from 'componentes/Banner';
-import Post from 'componentes/Post';
+import Post from 'componentes/PostCard';
 import posts from 'json/posts.json';
 
 export default function Inicio() {
